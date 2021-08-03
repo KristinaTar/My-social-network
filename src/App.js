@@ -8,7 +8,7 @@ import ProfileContainer from "./components/Profile/ProfileContainer.jsx";
 import HeaderContainer from "./components/Header/HeaderContainer";
 import LoginPage from "./components/Login/Login";
 
-
+//Main App
 const App = (props) => {
     return (
             <div className="appWrapper">
