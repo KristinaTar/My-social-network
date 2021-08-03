@@ -1,0 +1,25 @@
+.structure{
+    display:grid;
+    grid-template-columns: 2fr 10fr;
+
+}
+
+.UsersNames{
+    color:white;
+    padding:10px;
+}
+.messages{
+    color:black;
+    padding:10px;
+}
+.active{
+    color:gold;
+
+}
+.avatarImg{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    vertical-align: middle;
+
+}

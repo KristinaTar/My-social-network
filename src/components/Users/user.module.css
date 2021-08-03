@@ -1,0 +1,9 @@
+.usersPhoto{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+.selectedPage{
+    font-weight: bold;
+}
